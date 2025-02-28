@@ -1,12 +1,98 @@
-denisidoro/cheats
-denisidoro/navi-tldr-pages
-denisidoro/dotfiles
-mrVanDalo/navi-cheats
-chazeon/my-navi-cheats
-caojianhua/MyCheat
-Kidman1670/cheats
-isene/cheats
-m42martin/navi-cheats
-infosecstreams/cheat.sheets
-prx2090/cheatsheets-for-navi
-papanito/cheats
+[
+  {
+    "repo": "denisidoro/cheats",
+    "description": "Official cheatsheets for navi",
+    "tags": ["official", "cheatsheets", "shell"],
+    "stars": 500,
+    "last_updated": "2024-02-01",
+    "category": "Official"
+  },
+  {
+    "repo": "denisidoro/navi-tldr-pages",
+    "description": "tldr pages formatted for navi",
+    "tags": ["tldr", "cli", "reference"],
+    "stars": 120,
+    "last_updated": "2024-01-15",
+    "category": "Community"
+  },
+  {
+    "repo": "denisidoro/dotfiles",
+    "description": "Dotfiles and shell configurations",
+    "tags": ["dotfiles", "configs", "shell"],
+    "stars": 800,
+    "last_updated": "2023-12-20",
+    "category": "Utilities"
+  },
+  {
+    "repo": "mrVanDalo/navi-cheats",
+    "description": "Collection of useful navi cheats",
+    "tags": ["cheatsheets", "cli", "navi"],
+    "stars": 75,
+    "last_updated": "2023-11-10",
+    "category": "Community"
+  },
+  {
+    "repo": "chazeon/my-navi-cheats",
+    "description": "Personal navi cheatsheet collection",
+    "tags": ["personal", "cli", "navi"],
+    "stars": 60,
+    "last_updated": "2024-01-05",
+    "category": "Community"
+  },
+  {
+    "repo": "caojianhua/MyCheat",
+    "description": "My personal CLI cheatsheets",
+    "tags": ["personal", "cheatsheets", "cli"],
+    "stars": 45,
+    "last_updated": "2023-09-28",
+    "category": "Community"
+  },
+  {
+    "repo": "Kidman1670/cheats",
+    "description": "Cheatsheets for various tools",
+    "tags": ["cheatsheets", "tools", "cli"],
+    "stars": 35,
+    "last_updated": "2023-10-12",
+    "category": "Community"
+  },
+  {
+    "repo": "isene/cheats",
+    "description": "Miscellaneous cheatsheets",
+    "tags": ["misc", "cheatsheets", "cli"],
+    "stars": 20,
+    "last_updated": "2023-08-15",
+    "category": "Community"
+  },
+  {
+    "repo": "m42martin/navi-cheats",
+    "description": "Handy navi cheatsheets",
+    "tags": ["cheatsheets", "cli", "navi"],
+    "stars": 55,
+    "last_updated": "2023-11-01",
+    "category": "Community"
+  },
+  {
+    "repo": "infosecstreams/cheat.sheets",
+    "description": "Cheatsheets for security and infosec",
+    "tags": ["security", "infosec", "cheatsheets"],
+    "stars": 200,
+    "last_updated": "2024-01-22",
+    "category": "Security"
+  },
+  {
+    "repo": "prx2090/cheatsheets-for-navi",
+    "description": "Additional cheatsheets for navi",
+    "tags": ["navi", "cheatsheets", "cli"],
+    "stars": 85,
+    "last_updated": "2023-12-05",
+    "category": "Community"
+  },
+  {
+    "repo": "papanito/cheats",
+    "description": "Collection of useful CLI cheats",
+    "tags": ["cli", "cheatsheets", "tools"],
+    "stars": 90,
+    "last_updated": "2023-12-10",
+    "category": "Community"
+  }
+]
